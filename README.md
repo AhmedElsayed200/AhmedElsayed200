@@ -45,12 +45,12 @@
 
 ### Core Competencies
 
-![Problem Solving](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Object-oriented Programming](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Complexity Analysis](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Relational Databases](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![Agile](https://img.shields.io/badge/Django%20REST%20Framework-007BFF?style=for-the-badge&logo=django-rest-framework&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=a&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF9800?style=for-the-badge&logo=b&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=c&logoColor=white)
+![Object-oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-2196F3?style=for-the-badge&logo=d&logoColor=white)
+![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-E91E63?style=for-the-badge&logo=e&logoColor=white)
+![Complexity Analysis](https://img.shields.io/badge/Complexity_Analysis-673AB7?style=for-the-badge&logo=f&logoColor=white)
+![Relational Databases](https://img.shields.io/badge/Relational_Databases-3F51B5?style=for-the-badge&logo=g&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF5722?style=for-the-badge&logo=h&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-795548?style=for-the-badge&logo=i&logoColor=white)
